@@ -1,0 +1,4 @@
+Some information in this file
+
+We changed to another line
+And again!
